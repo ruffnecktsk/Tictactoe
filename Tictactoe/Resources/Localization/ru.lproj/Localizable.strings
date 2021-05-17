@@ -1,0 +1,10 @@
+"startScreen.navigationBar.title" = "Крестики-нолики";
+"startScreen.startNewGameButton.title" = "Начать новую игру";
+
+"gameScreen.navigationBar.title" = "Крестики-нолики";
+"gameScreen.navigationBar.backButton.title" = "Назад";
+
+"gameFinishedScreen.resultLabel.tie" = "Ничья!";
+"gameFinishedScreen.resultLabel.aiWon" = "AI Выиграл!";
+"gameFinishedScreen.resultLabel.youWon" = "Ты выиграл!";
+"gameFinishedScreen.playAgainButton.title" = "Играть еще раз";

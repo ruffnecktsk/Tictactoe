@@ -1,0 +1,10 @@
+"startScreen.navigationBar.title" = "Tic tac toe";
+"startScreen.startNewGameButton.title" = "Start new game";
+
+"gameScreen.navigationBar.title" = "Tic tac toe";
+"gameScreen.navigationBar.backButton.title" = "Back";
+
+"gameFinishedScreen.resultLabel.tie" = "Tie!";
+"gameFinishedScreen.resultLabel.aiWon" = "AI Won!";
+"gameFinishedScreen.resultLabel.youWon" = "You Won!";
+"gameFinishedScreen.playAgainButton.title" = "Play again";
